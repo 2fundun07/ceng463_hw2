@@ -1,6 +1,6 @@
 # Ideology and Power Identification in Parliamentary Debates
 
-This project demonstrates a machine learning pipeline for text classification using transformer models to identify ideology and power dynamics in parliamentary debates. The key steps are:
+This project demonstrates a machine learning pipeline for text classification using transformer models to identify ideology and power dynamics in parliamentary debates. It utilises Italian Orientation and Power data. The key steps are:
 
 ## Steps
 
